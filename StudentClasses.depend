@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1479518568 source:c:\users\faisa\desktop\studentclasses\main.cpp
+	<iostream>
+	"Student.h"
+
+1479519092 c:\users\faisa\desktop\studentclasses\student.h
+	<string>
+
+1479518035 source:c:\users\faisa\desktop\studentclasses\student.cpp
+	<iostream>
+	"Student.h"
+
